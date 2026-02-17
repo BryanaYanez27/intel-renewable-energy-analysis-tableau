@@ -40,6 +40,6 @@ Intel-Student.twbx — Tableau workbook with all visualizations
 
 Dashboard and chart screenshots showing analysis results
 
-##About This Project
+## About This Project
 
 Completed as part of a university data analytics course, this project demonstrates skills in Tableau visualization, renewable energy analysis, and translating data insights into business recommendations.
