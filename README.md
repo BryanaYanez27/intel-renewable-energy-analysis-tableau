@@ -1,7 +1,7 @@
 ## 🔗 Interactive Dashboard
 
 View the Tableau dashboard here:  
-[Open Tableau Dashboard](PASTE_LINK_HERE)
+[Open Tableau Dashboard](https://us-east-1.online.tableau.com/t/bryannayanez07-c0711aa700/views/Yanez_Leyva_Bryana_Intel-Student1/NetProduction)
 
 
 ## Overview
