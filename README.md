@@ -1,3 +1,9 @@
+## 🔗 Interactive Dashboard
+
+View the Tableau dashboard here:  
+[Open Tableau Dashboard](PASTE_LINK_HERE)
+
+
 ## Overview
 
 This project analyzes regional energy production and renewable energy patterns to recommend the best location for Intel’s next data center. Using Tableau, I created visualizations to compare regional energy supply, renewable usage, and production stability across the U.S.
